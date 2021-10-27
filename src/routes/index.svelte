@@ -37,6 +37,11 @@
     max-width: 400px;
   }
 
+  img.social {
+    width: 32px;
+    height: auto;
+  }
+
   @media (max-width: 1020px) {
     p {
       font-size: 1.2em;
@@ -61,17 +66,17 @@
 </style>
 
 <svelte:head>
-  <title>Sapper Blog Template</title>
+  <title>Ellis G.</title>
 </svelte:head>
 
 <div class="home-container">
   <div class="home-copy">
-    <h1>Welcome to your new Sapper Blog</h1>
-    <p>Check out the docs on <a href="https://www.github.com/Charca/sapper-blog-template" target="_blank">GitHub</a> to get started.</p>
+    <h1>Welcome to my thoughts.</h1>
+    <a href="https://www.github.com/ellisbywater" target="_blank"><img class="social" alt='Github' src='githubmark.png'/></a>
   </div>
 
   <figure>
-    <img alt='Person typing on laptop' src='undraw-illustration.svg'>
+    <img alt='Person typing on laptop' src='undraw_into_the_night_vumi.svg'>
     <figcaption>Illustration thanks to <a href="https://undraw.co" target="_blank">Undraw</a></figcaption>
   </figure>
 </div>

@@ -19,11 +19,10 @@
 </style>
 
 <div>
-  <img src="profile-pic.png" alt="Maxi Ferreira">
+  <img src="profile-pic.png" alt="Ellis G">
   <p>
-    Hi, I'm <strong>Maxi</strong>. I'm a software engineer and data scientist from Córdoba, Argentina.
-    You can follow me on <a href="https://www.twitter.com/Charca" target="_blank">Twitter</a>,
-    see some of my work on <a href="https://www.github.com/Charca" target="_blank">GitHub</a>,
-    or read more about me on <a href="https://www.maxiferreira.com" target="_blank">my website</a>.
+    Hi, I'm <strong>Ellis</strong>. I'm a software engineer and blockchain enthusiast from Colorado, USA.
+    You can see some of my work on <a href="https://www.github.com/ellisbywater" target="_blank">GitHub</a>,
+    or find more about what I am to in the crypto space with <a href="https://roguedefi.com" target="_blank">Rogue Defi</a>.
   </p>
 </div>
